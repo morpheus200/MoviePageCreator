@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/src/pagecreator
+END
+test.form
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/6/trunk/src/pagecreator/test.form
+END
+PageCreatorForm.form
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/src/pagecreator/PageCreatorForm.form
+END
+PageCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/pagecreator/PageCreator.java
+END
+NoPicture.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/src/pagecreator/NoPicture.java
+END
+NoPicture.form
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/src/pagecreator/NoPicture.form
+END
+ChangedNfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/src/pagecreator/ChangedNfo.java
+END
+test.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/6/trunk/src/pagecreator/test.java
+END
+PageCreatorForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7/trunk/src/pagecreator/PageCreatorForm.java
+END
+ChangedNfo.form
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/src/pagecreator/ChangedNfo.form
+END

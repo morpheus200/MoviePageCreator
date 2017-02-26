@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/3/trunk/src/helpers
+END
+CheckThumb.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/helpers/CheckThumb.java
+END
+SaxXML.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/6/trunk/src/helpers/SaxXML.java
+END
+TableEventList.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5/trunk/src/helpers/TableEventList.java
+END
+CreateHTML.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5/trunk/src/helpers/CreateHTML.java
+END
+ResizeImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/src/helpers/ResizeImage.java
+END
+TextAreaEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5/trunk/src/helpers/TextAreaEditor.java
+END
+CreateTBN.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/6/trunk/src/helpers/CreateTBN.java
+END
+TableCellListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/src/helpers/TableCellListener.java
+END
+FirstNFOTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/helpers/FirstNFOTableModel.java
+END
+xmlNFO.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/6/trunk/src/helpers/xmlNFO.java
+END
+ImageRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5/trunk/src/helpers/ImageRenderer.java
+END
+TextAreaRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7/trunk/src/helpers/TextAreaRenderer.java
+END
+Moviename.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/src/helpers/Moviename.java
+END
+Database.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/6/trunk/src/helpers/Database.java
+END
+Lookups.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/6/trunk/src/helpers/Lookups.java
+END
+XMLCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/trunk/src/helpers/XMLCreator.java
+END
+FolderHandling.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/src/helpers/FolderHandling.java
+END
+NFOTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5/trunk/src/helpers/NFOTableModel.java
+END
